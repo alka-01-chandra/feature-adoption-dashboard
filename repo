@@ -1,4 +1,0 @@
-cd /Users/alkachandra/feature-adoption-dashboard                                                                            
-  git add -A                                                
-  git commit -m "Add all project files"
-  git push -u origin main --force
