@@ -1,3 +1,5 @@
 cd /Users/alkachandra/feature-adoption-dashboard
   git remote add origin https://github.com/alka-01-chandra/feature-adoption-dashboard.git
   git push -u origin main
+git add -A
+  git commit -m "Update railway config" 
